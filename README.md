@@ -76,4 +76,4 @@ python customer_segmentation.py
 
 **Mohamed Chaker Iben Hadj Amor**  
 Data Engineering Student · FSB, Tunisia  
-[LinkedIn](https://www.linkedin.com/in/ice-whaley-22a740411/) · [GitHub](https://github.com/MohamedChaker-bha)
+[LinkedIn]([https://www.linkedin.com/in/ice-whaley-22a740411/](https://www.linkedin.com/in/mohamed-chaker-iben-hadj-amor/)) · [GitHub](https://github.com/MohamedChaker-bha)
